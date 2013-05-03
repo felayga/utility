@@ -1,2 +1,3 @@
 utility
 =======
+Shared function library.
